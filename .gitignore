@@ -1,0 +1,4 @@
+.venv
+dsproject
+.ipynb_checkpoints
+data/demo.txt
