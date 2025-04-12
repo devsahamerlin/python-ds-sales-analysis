@@ -307,7 +307,7 @@ Un graphique à barres montrant :
 - Les ventes de l'année précédente
 - Une ligne de tendance
 
-![1-Ventes-par-produit-et-comparaison-avec-les-ventes-de-lannée-dernière.png](images/1-Ventes-par-produit-et-comparaison-avec-les-ventes-de-lanne%CC%81e-dernie%CC%80re.png)
+![1-Ventes-par-produit-et-comparaison-avec-les-ventes-de-lannee-derniere.png](images/1-Ventes-par-produit-et-comparaison-avec-les-ventes-de-lannee-derniere.png)
 
 #### 7.2.2 Ventes par Mois
 Un graphique à barres montrant :
