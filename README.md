@@ -105,8 +105,9 @@ scikit-learn
 
 1. Clonez le dépôt ou téléchargez le code source
 ```shell
-git clone https://github.com/devsahamerlin/sales-analysis.git
-cd sales-analysis
+git clone https://github.com/devsahamerlin/python-ds-sales-analysis.git
+
+cd python-ds-sales-analysis
 ```
 2. Créez un environnement virtuel et activez-le :
 ```bash
